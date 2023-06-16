@@ -10,7 +10,7 @@ import java.util.List;
 public class _257 {
     List<String> res = new ArrayList<>();
     public List<String> binaryTreePaths(TreeNode root) {
-
+        return null;
     }
     public void dfs(TreeNode node,StringBuilder path){
         if(node == null){
