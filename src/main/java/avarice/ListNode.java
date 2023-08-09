@@ -1,4 +1,4 @@
-package binaryTree;
+package avarice;
 
 /**
  * @Author lihongxing
@@ -7,7 +7,7 @@ package binaryTree;
 public class ListNode {
     int val;
     ListNode next;
-    public ListNode(int x) {
+    ListNode(int x) {
        val = x;
        next = null;
    }
