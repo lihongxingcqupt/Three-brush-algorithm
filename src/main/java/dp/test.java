@@ -1,20 +1,15 @@
 package dp;
 
 import binaryTree.TreeNode;
+import org.junit.Test;
 
 /**
  * @Author lihongxing
  * @Date 2023/8/10 13:55
  */
 public class test {
-    /**
-     * Definition for a binary tree node.
-     * public class TreeNode {
-     *     int val;
-     *     TreeNode left;
-     *     TreeNode right;
-     *     TreeNode(int x) { val = x; }
-     * }
-     */
+    @Test
+    public void test(){
 
+    }
 }
