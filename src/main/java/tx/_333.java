@@ -1,4 +1,4 @@
-public class _2 {
+public class _333 {
     public static int countCuteStrings(int n) {
         final int MOD = (int) (1e9) + 7;
         int[][] dp = new int[n + 1][4];
